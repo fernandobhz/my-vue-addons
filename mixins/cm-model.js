@@ -14,7 +14,7 @@ var cmmodel = {
 				}
 			);
 		}
-		}
+	}
 }
 
 try {
